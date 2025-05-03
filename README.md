@@ -9,15 +9,15 @@ Welcome to the Road Accidents Analysis dashboard! 🚨 This Tableau project prov
 
 ## 🔑 Key Metrics
 
-🚗 ***Total Accidents***: 1,44,419 (▼ 11.70% YoY)  
+🚗 ****Total Accidents****: **1,44,419 (▼ 11.70% YoY)** 
 
-👥 ***Total Casualties***: 1,95,737 (▼ 11.89% YoY)  
+👥 ****Total Casualties****: **1,95,737 (▼ 11.89% YoY)**  
 
-⚰️ ***Fatal Casualties***: 2,855 (▼ 26.40% YoY)  
+⚰️ ****Fatal Casualties****: **2,855 (▼ 26.40% YoY)**  
 
-🏥 ***Fatal Casualties (Injured)***: 27,045 (▼ 16.30% YoY) 
+🏥 ****Fatal Casualties (Injured)****: **27,045 (▼ 16.30% YoY)** 
 
-🚑 ***Fatal Casualties (Total)***: 1,65,837 (▼ 10.82% YoY)
+🚑 ****Fatal Casualties (Total)****: **1,65,837 (▼ 10.82% YoY)**
 
 ---
 
