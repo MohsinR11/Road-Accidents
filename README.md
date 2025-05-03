@@ -9,15 +9,15 @@ Welcome to the Road Accidents Analysis dashboard! 🚨 This Tableau project prov
 
 ## 🔑 Key Metrics
 
-🚗 Total Accidents: 1,44,419 (▼ 11.70% YoY)  
+🚗 ***Total Accidents***: 1,44,419 (▼ 11.70% YoY)  
 
-👥 Total Casualties: 1,95,737 (▼ 11.89% YoY)  
+👥 ***Total Casualties***: 1,95,737 (▼ 11.89% YoY)  
 
-⚰️ Fatal Casualties: 2,855 (▼ 26.40% YoY)  
+⚰️ ***Fatal Casualties***: 2,855 (▼ 26.40% YoY)  
 
-🏥 Fatal Casualties (Injured): 27,045 (▼ 16.30% YoY) 
+🏥 ***Fatal Casualties (Injured)***: 27,045 (▼ 16.30% YoY) 
 
-🚑 Fatal Casualties (Total): 1,65,837 (▼ 10.82% YoY)
+🚑 ***Fatal Casualties (Total)***: 1,65,837 (▼ 10.82% YoY)
 
 ---
 
@@ -34,42 +34,42 @@ The dashboard is designed to help you explore road accident trends with ease. Us
 
 Line charts showing monthly trends for total accidents, total casualties, fatal casualties (injured and total) from Jan to Dec. 
 
-**📈 Trend**: All metrics show a decline in 2022 compared to 2021, with noticeable seasonal variations (e.g., peaks in summer months).
+📈 ***Trend***: All metrics show a decline in 2022 compared to 2021, with noticeable seasonal variations (e.g., peaks in summer months).
 
 
 ### 2. Fatal Casualties by Vehicle Type 🚗  
 
 Bar chart displaying fatal casualties across vehicle types (Agricultural, Bus, Car, Goods Vehicle, Motorcycle, Pedal Cycle). 
 
-**🚨 Highlight**: Cars have the highest fatal casualties at 2,350, while Agricultural vehicles have the lowest at 7. Motorcycles show the largest YoY decrease (▼ 46.99%).
+🚨 ***Highlight***: Cars have the highest fatal casualties at 2,350, while Agricultural vehicles have the lowest at 7. Motorcycles show the largest YoY decrease (▼ 46.99%).
 
 
 ### 3. Fatal Casualties by Weather Conditions ☔  
 
 Donut chart showing the distribution of fatal casualties by weather (Fine, Rainy, Snow/Fog, Others).  
 
-🌧️ Breakdown: 85.01% of fatal casualties occur in Fine weather, while Snow/Fog accounts for 2.52%.
+🌧️ ***Breakdown***: 85.01% of fatal casualties occur in Fine weather, while Snow/Fog accounts for 2.52%.
 
 
 ### 4. Fatal Casualties by Road Conditions 🛤️  
 
 Donut chart showing the distribution of fatal casualties by road conditions (Dry, Wet/Flooded, Snow).  
 
-**💦 Breakdown**: 67.62% of fatal casualties occur on Dry roads, while Snow accounts for 5.71%.
+💦 ***Breakdown***: 67.62% of fatal casualties occur on Dry roads, while Snow accounts for 5.71%.
 
 
 ### 5. Fatal Casualties by Location 🗺️  
 
 A map of the UK showing the geographic distribution of fatal casualties.  
 
-**📍 Observation**: Higher concentrations of fatal casualties are observed in densely populated areas like London and the Southeast.
+📍 ***Observation***: Higher concentrations of fatal casualties are observed in densely populated areas like London and the Southeast.
 
 
 ### 6. Fatal Casualties by Road Type 🛣️  
 
 Bar chart showing fatal casualties across road types (Single carriageway, Dual carriageway, Roundabout, Slip road, One-way street, Null).  
 
-**🏁 Highlight**: Single carriageway roads have the highest fatal casualties at 1,913, while Null road types have the lowest at 1.
+🏁 ***Highlight***: Single carriageway roads have the highest fatal casualties at 1,913, while Null road types have the lowest at 1.
 
 ---
 
@@ -85,21 +85,21 @@ Here’s a glimpse of the dashboard! 🖼️
 
 Customize your analysis with these filters:  
 
-📅 Current Year: 2022 (default)  
+📅 ***Current Year***: 2022 (default)  
 
-📅 Previous Year: 2021 (default)  
+📅 ***Previous Year***: 2021 (default)  
 
-⚰️ Select Accident Severity: Fatal (default), or other severity levels
+⚰️ ***Select Accident Severity***: Fatal (default), or other severity levels
 
 ---
 
 ## 🚀 Usage
 
-**Open the Dashboard**: Launch the Tableau workbook in Tableau Desktop or Tableau Public. 📂  
+***Open the Dashboard***: Launch the Tableau workbook in Tableau Desktop or Tableau Public. 📂  
 
-**Apply Filters**: Use the dropdowns to filter by Year or Accident Severity. 🎛️
+***Apply Filters***: Use the dropdowns to filter by Year or Accident Severity. 🎛️
 
-**Interact**: Hover over charts for details or click to drill down. 🖱️
+***Interact***: Hover over charts for details or click to drill down. 🖱️
 
 ---
 
@@ -121,7 +121,7 @@ The dataset is preloaded in the workbook. To replicate, ensure your dataset incl
 
 ## 🤝 Contributing
 
-Love this dashboard? Fork the repo, enhance it, and submit a pull request! 💡 Suggestions for new visualizations or metrics are always welcome.
+**Love this dashboard?** Fork the repo, enhance it, and submit a pull request! 💡 Suggestions for new visualizations or metrics are always welcome.
 
 ---
 
