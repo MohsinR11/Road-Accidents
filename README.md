@@ -109,13 +109,13 @@ Tableau Desktop or Tableau Public to view and interact with the dashboard.
 
 The dataset is preloaded in the workbook. To replicate, ensure your dataset includes:  
 
-  - Accident data (total accidents, casualties, severity)
+  - ***Accident data*** (total accidents, casualties, severity)
    
-  - Temporal data (monthly data for 2021 and 2022)
+  - ***Temporal data*** (monthly data for 2021 and 2022)
     
-  - Contributing factors (vehicle type, weather conditions, road conditions, road type)
+  - ***Contributing factors*** (vehicle type, weather conditions, road conditions, road type)
     
-  - Geographic data (location coordinates for mapping)
+  - ***Geographic data*** (location coordinates for mapping)
 
 ---
 
